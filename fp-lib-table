@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name w_conn_av)(type Legacy)(uri "$(KIPRJMOD)\\libs\\footprints\\w_conn_av.mod")(options "")(descr ""))
+  (lib (name diy_connectors)(type Legacy)(uri "$(KIPRJMOD)\\libs\\footprints\\diy_connectors.mod")(options "")(descr ""))
+)
