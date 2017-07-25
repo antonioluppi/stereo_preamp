@@ -1,4 +1,5 @@
 EESchema Schematic File Version 2
+LIBS:preamp-rescue
 LIBS:power
 LIBS:device
 LIBS:transistors
@@ -177,7 +178,7 @@ F 3 "" H 9750 850 50  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L POT RV2
+L POT-RESCUE-preamp RV2
 U 1 1 57F1EC9D
 P 2650 2950
 F 0 "RV2" H 2650 2870 50  0000 C CNN
@@ -199,7 +200,7 @@ F 3 "" H 4250 3250 50  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L POT RV1
+L POT-RESCUE-preamp RV1
 U 1 1 57F1EDE3
 P 4250 2700
 F 0 "RV1" H 4250 2620 50  0000 C CNN
@@ -320,7 +321,7 @@ F 3 "" H 2400 5400 50  0000 C CNN
 	0    1    1    0   
 $EndComp
 $Comp
-L POT RV4
+L POT-RESCUE-preamp RV4
 U 1 1 57F46D6F
 P 2700 6100
 F 0 "RV4" H 2700 6020 50  0000 C CNN
@@ -342,7 +343,7 @@ F 3 "" H 4150 6550 50  0000 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L POT RV3
+L POT-RESCUE-preamp RV3
 U 1 1 57F46D7B
 P 3950 5900
 F 0 "RV3" H 3950 5820 50  0000 C CNN
